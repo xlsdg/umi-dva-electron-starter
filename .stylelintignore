@@ -1,0 +1,19 @@
+# dependencies
+/node_modules
+
+# production
+dist
+public
+/release
+
+# misc
+.DS_Store
+
+# umi
+.umi
+.umi-production
+
+# ide
+.idea
+.vscode
+.history

@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "noLib": false,
+    // "target": "esnext",
+    "checkJs": false,
+    "experimentalDecorators": true,
+    "allowSyntheticDefaultImports": true,
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["src/renderer/*"]
+    }
+  },
+  "include": ["src/**/*"],
+  "exclude": ["node_modules", "**/node_modules/*", "dist", "bower_components", "tmp", "temp", "jspm_packages"]
+}
