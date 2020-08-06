@@ -104,6 +104,7 @@ export default defineConfig({
   // proxy: {},
   // publicPath: '/',
   // routes: [],
+  // runtimeHistory: {},
   // runtimePublicPath: false,
   // scripts: [{}, ''],
   // singular: false,
