@@ -3,13 +3,15 @@ import _ from 'lodash';
 // import { formatMessage } from 'umi';
 // import { createLogger } from 'redux-logger';
 
+import { hasFunction } from '@/utils/helper';
+
 export const dva = {
   config: {
     // history: ,
     // initialState: {},
     onError: (error, dispatch, extension) => {
       // console.dir(error);
-      if (error && _.isFunction(error.preventDefault)) {
+      if (error && hasFunction(error.preventDefault)) {
         error.preventDefault();
       }
     },
