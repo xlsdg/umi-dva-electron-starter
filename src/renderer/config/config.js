@@ -75,6 +75,7 @@ export default defineConfig({
   // extraPostCSSPlugins: [],
   // favicon: '/assets/favicon.ico',
   // forkTSCheker: {},
+  // fastRefresh: {},
   hash: true,
   // headScripts: [{}, ''],
   history: { type: 'browser' }, // browser、hash、memory
