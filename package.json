@@ -16,8 +16,8 @@
     "productName": "ElectronReact"
   },
   "dependencies": {
-    "@ant-design/icons": "^4.5.0",
-    "antd": "^4.13.1",
+    "@ant-design/icons": "^4.6.2",
+    "antd": "^4.14.0",
     "classnames": "^2.2.6",
     "dequal": "^2.0.2",
     "dva": "next",
@@ -39,15 +39,15 @@
     "@commitlint/config-conventional": "^12.0.1",
     "@umijs/plugin-antd": "^0.9.1",
     "@umijs/plugin-dva": "^0.10.0",
-    "@umijs/plugin-locale": "^0.10.9",
+    "@umijs/plugin-locale": "^0.10.10",
     "babel-eslint": "^10.1.0",
     "babel-plugin-lodash": "^3.3.4",
     "concurrently": "^6.0.0",
     "cross-env": "^7.0.3",
-    "electron": "^12.0.0",
+    "electron": "^12.0.1",
     "electron-builder": "^22.10.5",
     "electron-webpack": "^2.8.2",
-    "eslint": "^7.21.0",
+    "eslint": "^7.22.0",
     "eslint-config-alloy": "^3.10.0",
     "eslint-plugin-prettier": "^3.3.1",
     "eslint-plugin-react": "^7.22.0",
@@ -63,8 +63,8 @@
     "stylelint-config-standard": "^21.0.0",
     "stylelint-declaration-block-no-ignored-properties": "^2.3.0",
     "stylelint-prettier": "^1.2.0",
-    "umi": "^3.3.9",
-    "webpack": "^5.24.3"
+    "umi": "^3.4.3",
+    "webpack": "^5.27.0"
   },
   "electronWebpack": {
     "renderer": {
