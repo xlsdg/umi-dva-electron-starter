@@ -64,7 +64,7 @@
     "stylelint-declaration-block-no-ignored-properties": "^2.3.0",
     "stylelint-prettier": "^1.2.0",
     "umi": "^3.4.3",
-    "webpack": "^5.27.0"
+    "webpack": "^5.27.1"
   },
   "electronWebpack": {
     "renderer": {
