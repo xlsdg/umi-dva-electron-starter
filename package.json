@@ -17,7 +17,7 @@
   },
   "dependencies": {
     "@ant-design/icons": "^4.6.2",
-    "antd": "^4.15.0",
+    "antd": "^4.15.1",
     "classnames": "^2.3.1",
     "dequal": "^2.0.2",
     "dva": "next",
@@ -38,19 +38,19 @@
     "@commitlint/cli": "^12.1.1",
     "@commitlint/config-conventional": "^12.1.1",
     "@umijs/plugin-antd": "^0.9.1",
-    "@umijs/plugin-dva": "^0.11.0",
-    "@umijs/plugin-locale": "^0.10.10",
+    "@umijs/plugin-dva": "^0.11.1",
+    "@umijs/plugin-locale": "^0.11.0",
     "babel-eslint": "^10.1.0",
     "babel-plugin-lodash": "^3.3.4",
-    "concurrently": "^6.0.0",
+    "concurrently": "^6.0.1",
     "cross-env": "^7.0.3",
     "electron": "^12.0.2",
     "electron-builder": "^22.10.5",
     "electron-webpack": "^2.8.2",
-    "eslint": "^7.23.0",
+    "eslint": "^7.24.0",
     "eslint-config-alloy": "^3.10.0",
     "eslint-plugin-prettier": "^3.3.1",
-    "eslint-plugin-react": "^7.23.1",
+    "eslint-plugin-react": "^7.23.2",
     "eslint-plugin-react-hooks": "^4.2.0",
     "husky": "^4.3.8",
     "lint-staged": "^10.5.4",
@@ -64,7 +64,7 @@
     "stylelint-declaration-block-no-ignored-properties": "^2.3.0",
     "stylelint-prettier": "^1.2.0",
     "umi": "^3.4.8",
-    "webpack": "^5.30.0"
+    "webpack": "^5.31.2"
   },
   "electronWebpack": {
     "renderer": {
